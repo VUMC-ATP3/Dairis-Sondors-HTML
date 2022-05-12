@@ -1,2 +1,2 @@
 # Šis ir HTML mājas darbs
-## Dairis Sondors darbs
+## Dairis Sondors CV

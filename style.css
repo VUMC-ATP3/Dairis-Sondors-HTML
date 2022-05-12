@@ -1,25 +1,28 @@
 /* Pēc klases */
-.note {
+.labie {
     color:blue;
 
 }
-/* Pēc elementa nosaukuma */
-h3 {
-    color: blueviolet;
-    background-color: black;
+.kreisie {
+    color: rgb(250, 6, 6);
 }
-
+.zem {
+    color: rgb(15, 7, 134);
+}
+.name {
+    color: darkred;
+}
 .full{
-    border-style: groove;
+    
     display: grid;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 20% 70%;
 
     
 
 }
 
 .left{
-    background-color: rgba(255, 136, 0, 0.384);
+    background-color: rgb(142, 247, 255);
     
     
     
@@ -27,13 +30,9 @@ h3 {
 }
 
 .right{
-    background-color: cornflowerblue;
+    background-color: rgb(255, 251, 190);
    
 
 
 }
 
-#vecums{
-    width: 50px;
-    height: 100px;
-}
